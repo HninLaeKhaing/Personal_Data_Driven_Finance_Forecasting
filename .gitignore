@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Google Colab-specific
+/content/personal_transactions.csv
+
+# matplotlib cache
+.matplotlib/
+
+# Logs or output
+*.log
+
+# OS-generated files
+Thumbs.db
