@@ -83,5 +83,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👩‍💻 Author
 
 - **Hnin Lae Khaing**
-- B.Tech CSE 2B, Manav Rachna University  
-- Roll No: 2K24CSUN01098
+- B.Tech CSE, Manav Rachna University  
