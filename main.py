@@ -1,8 +1,12 @@
 import pandas as pd
 import numpy as np
+import matplotlib
+st.write("Matplotlib version:", matplotlib.__version__)
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 from sklearn.linear_model import LinearRegression
+
+
 
 # uploaded file
 file_path = '/content/personal_transactions.csv'
